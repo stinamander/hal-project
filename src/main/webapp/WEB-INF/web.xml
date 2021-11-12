@@ -10,7 +10,7 @@
     <servlet-name>EmployeeServlet</servlet-name>
     <url-pattern>/EmployeeServlet</url-pattern>
   </servlet-mapping>
-  <display-name>HAL-project</display-name>
+  <display-name>HAL-project-10</display-name>
   <welcome-file-list>
     <welcome-file>index.html</welcome-file>
     <welcome-file>index.htm</welcome-file>
